@@ -1,0 +1,15 @@
+{
+  "name": "discord-dm-cleaner",
+  "version": "1.0.0",
+  "description": "A simple Discord DM cleaner.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "taumata667",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
